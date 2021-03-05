@@ -1,3 +1,7 @@
-.body{
+body{
     background-color: aqua;
+}
+
+.container{
+    margin: 20px;
 }
