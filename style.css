@@ -5,3 +5,8 @@ body{
 .container{
     margin: 20px;
 }
+
+.img{
+    width: 100px;
+    height: auto;
+}
