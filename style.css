@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+}
+
+p{
+    font-size: 20px;
+}
+
+.lewy{
+    float: left;
+    width: 50%;
+}
+
+.prawy{
+    float: right;
+    width: 50%;
+}
+
+ul li{
+    display: inline;
+}
+
+.kontakt{
+    justify-content: center;
+    background-color: lightblue
+}
+
+h2{
+    color: dodgerblue
+}
